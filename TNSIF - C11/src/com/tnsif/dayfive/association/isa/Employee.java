@@ -2,7 +2,8 @@
 package com.tnsif.dayfive.association.isa;
 
 // Superclass
-public class Employee {
+public class Employee 
+{
 	private String name;
 	private int employeeId;
 	private String department;
